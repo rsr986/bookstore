@@ -4,8 +4,7 @@ jdk:
 
 deploy:
     provider: heroku
-    api_key:
-        secure: 3d07/Akulc+h4dbRfdYHd173RcFPXgOc+eUeATBPONJ4X8y3f/h7D+Pw3v8Ibrg0thVt7fXQ2j6XyBfkoAIDqWbw6Cvq/kyb837iLyYekcS4CZRKOZVr7g2pHvrEuNZTI8r+gqJr5uBzfO4CLp2bunwVuwvkQH6f8as7vFyLzBVUMvHeiGt+j/VCGotLHwwJT+K3xM3L8qeAxc9uVVHt+wIyPFVUdP24Fs347JtJ0+rwF3yywmkHjSOEpZwJL+yvl6NnVltTxl8kaWC4U0CbRPdwf0qOWAdGHK1QpwoPPl3kHNuHkmFPlkg0HEEOBz8hI6chQNjVVUneq8p/ywB+mxRSYVl2VO8iOOfFfxwokPivSiG1hH1Oeh1IRQkhs8UdxcUwZ5n7v3QNZXMlzJHQKcAKazR/y4JnEcp0f2/TVetIhcsieWvxmg0y+boG6ECg2NCco3IozA2swygbzKbUCYhBgnUSXjgMrodARP54SR+jUSXnRFHhsZmaFbdxp3YqJNwtqwKc5KfeZcYzwYUFHT8HIQtoV8K0luUSQcz2rH5XZ3mkHMdcXPUp3U8L52UfFlLAkTB8YUYZfNXNNICGKM+niEywD2OrLz/A4O1M/SdKNISQZ4HRFKowJ6DSHeiafDZ9UMPB92L99udWAzuth7WPxJJPL8c0Civwy+pdoYQ=
+    api_key: 2429aa67-8a06-4d12-bed1-1b81c7bc9ccb
     app: book-demo-store1
 
 
