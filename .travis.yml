@@ -5,7 +5,7 @@ jdk:
 deploy:
     provider: heroku
     api_key:
-        secure: $HEROKU_TOKEN
+        secure: 2429aa67-8a06-4d12-bed1-1b81c7bc9ccb
     app: "book-demo-store1"
 
 
